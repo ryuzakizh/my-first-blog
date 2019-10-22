@@ -2,6 +2,6 @@
 *~
 __pycache__
 myvenv
-db.sqlite3       #local db must not be uploaded
+db.sqlite3       
 /static
 .DS_Store
